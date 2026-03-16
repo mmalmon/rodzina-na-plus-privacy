@@ -23,3 +23,12 @@ Ten katalog jest przygotowany jako **minimalny publiczny artefakt**, który moż
 
 Nie publikuj całego repo aplikacji, jeśli projekt ma pozostać prywatny. Publiczne powinno być wyłącznie repo lub hosting zawierające samą politykę prywatności.
 
+## Synchronizacja przy wydaniach
+
+Przy każdej publikacji aplikacji:
+
+1. zaktualizuj `docs/PRIVACY_POLICY.md` w prywatnym repo,
+2. przenieś aktualną wersję HTML z tego katalogu do publicznego repo `rodzina-na-plus-privacy`,
+3. sprawdź publiczny URL `https://mmalmon.github.io/rodzina-na-plus-privacy/`,
+4. upewnij się, że treść zgadza się z dokumentami `docs/DATA_SAFETY.md` i `docs/PLAY_CONSOLE_VALUES.md`.
+
